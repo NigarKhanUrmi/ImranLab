@@ -1,4 +1,5 @@
 
+-> Go to this link: https://htmlpreview.github.io/ -> Copy the url of index.html file: https://github.com/NigarKhanUrmi/website/blob/main/Imranlab/index.html and paste it in the blank.
 
 A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
 layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
